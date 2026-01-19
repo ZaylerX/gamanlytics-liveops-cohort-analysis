@@ -1,1 +1,1 @@
-https://public.tableau.com/app/profile/federico.mistretta/viz/GamingLiveOpsAnalysisRetentionLTVABTesting/UserRetentionCurveD0-D30#2
+https://public.tableau.com/app/profile/federico.mistretta/viz/GamingLiveOpsAnalysisRetentionLTVABTesting/RetentionvsLifetimeValue#2

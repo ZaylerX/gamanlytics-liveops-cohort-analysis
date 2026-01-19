@@ -54,7 +54,7 @@ The analysis focuses on answering the following questions:
 
 Interactive dashboards are available here:
 
-👉 **[https://public.tableau.com/app/profile/federico.mistretta/viz/GamingLiveOpsAnalysisRetentionLTVABTesting/UserRetentionCurveD0-D30#2]**
+👉 **https://public.tableau.com/app/profile/federico.mistretta/viz/GamingLiveOpsAnalysisRetentionLTVABTesting/UserRetentionCurveD0-D30#2**
 
 Dashboards included:
 1. Retention curves (D0–D30)
@@ -130,5 +130,5 @@ This project was built to demonstrate skills required for **Junior Data Analyst 
 Federico Mistretta 
 Aspiring Junior Data Analyst / LiveOps Analyst (Gaming & Esports)
 
-LinkedIn: [https://www.linkedin.com/in/federico-mistretta/]  
+LinkedIn: https://www.linkedin.com/in/federico-mistretta/  
 GitHub: https://github.com/your-username
